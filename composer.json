@@ -1,0 +1,9 @@
+{
+    "name": "anna_bryzgalova/laravel_dz1",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require-dev": {
+        "psr/log": "^3.0@dev"
+    }
+}
